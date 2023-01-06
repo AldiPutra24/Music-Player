@@ -72,7 +72,7 @@ namespace MusicApp.ViewModel
                 new Music { Title = "Sunshine", Artist = "The Panturas", Url = "https://www.mboxdrive.com/The%20Panturas%20%20Sunshine%20Official%20Music%20Video.mp3", CoverImage = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRm-su97lHFGZrbR6BkgL32qbzZBj2f3gKGrFR0Pn66ih01SyGj&usqp=CAU"},
                 new Music { Title = "Sesuatu Di Jogja", Artist = "Adhitia Sofyan", Url = "https://www.mboxdrive.com/Sesuatu%20Di%20Jogja%20%20Adhitia%20Sofyan%20official%20audio.mp3"},
                 new Music { Title = "Cigarettes of ours", Artist = "Ardhito Pramono", Url = "https://www.mboxdrive.com/Ardhito%20Pramono%20%20cigarettes%20of%20ours.mp3"},
-                new Music { Title = "Bitterlove", Artist = "Ardhito Pramono", Url = "https://www.mboxdrive.com/Ardhito%20Pramono%20%20Bitterlove%20Official%20Video.mp3"},
+                new Music { Title = "Bitterlove", Artist = "Ardhito Pramono", Url = "https://od.lk/s/NF8yNjQ1NzQwMTJf/Ardhito%20Pramono%20%20cigarettes%20of%20ours.mp3"},
                 new Music { Title = "Masih Kurang", Artist = "SISITIPSI", Url = "https://www.mboxdrive.com/SISITIPSI%20%20Masih%20Kurang%20Official%20Music%20Video.mp3"},
                 new Music { Title = "There Is A Light That Never Goes Out", Artist = "The Smith", Url = "https://www.mboxdrive.com/The%20Smith%20%20There%20Is%20A%20Light%20That%20Never%20Goes%20Out%20%20%20with%20lyrics.mp3"},
                 new Music { Title = "RUMAH SINGGAH", Artist = "FABIO ASHER", Url = "https://www.mboxdrive.com/%20FABIO%20ASHER%20%20RUMAH%20SINGGAH%20OFFICIAL%20MUSIC%20VIDEO.mp3" }
