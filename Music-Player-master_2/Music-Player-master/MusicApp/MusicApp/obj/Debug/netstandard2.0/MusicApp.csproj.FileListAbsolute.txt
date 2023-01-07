@@ -1,0 +1,16 @@
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.deps.json
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.dll
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\ref\MusicApp.dll
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.pdb
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.csproj.AssemblyReference.cache
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\PlayerPage.xaml.g.cs
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.AssemblyInfoInputs.cache
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.AssemblyInfo.cs
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.csproj.CoreCompileInputs.cache
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.dll
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\ref\MusicApp.dll
+D:\FP PL\Music-Player-master_2\Music-Player-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.pdb
